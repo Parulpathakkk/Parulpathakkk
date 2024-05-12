@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Parul Pathak</h1>
-<p>Hey there! As a frontend enthusiast, I specialize in React JS, JavaScript, and the finesse of Tailwind CSS. However, my curiosity extends to backend development as well, as I'm eager to broaden my expertise. Committed to continuous learning and professional growth, I'm keen to connect, collaborate, and embark on new ventures in the ever-evolving landscape of technology. Let's engage in meaningful discussions and explore opportunities together! 🌟</p>
+<p>Hey there! As a frontend enthusiast, I specialize in React JS, JavaScript, and the finesse of Tailwind CSS. However, my curiosity extends to embracing diverse aspects of development and exploring new technologies, as I'm eager to broaden my expertise. Committed to continuous learning and professional growth, I'm keen to connect, collaborate, and embark on new ventures in the ever-evolving landscape of technology.🌟</p>
 
 ###
 
