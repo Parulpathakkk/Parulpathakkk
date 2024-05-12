@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Building Portfolio Projects**
 
-- 🌱 I’m currently learning and practicing **DSA**
+- 🌱 Learning **DSA** and Polishing my **Web Development skills**
 
 - ⚡ Ask me about **ReactJS, TailwindCSS and Web Development**
 
