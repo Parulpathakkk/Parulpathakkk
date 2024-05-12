@@ -5,9 +5,9 @@
 
 <h2></h2>
 
-- 🔭 I’m currently working on **Zwiggy - food delivering app**
+- 🔭 I’m currently working on **Zwiggy - A Food Delivering App**
 
-- 🌱 I’m currently learning **Material UI, DSA**
+- 🌱 I’m currently learning and practicing **DSA**
 
 - 💬 Ask me about **ReactJS, TailwindCSS and Web Development**
 
