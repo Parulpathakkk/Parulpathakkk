@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **parulpathak1011@gmail.com**
 
-- ⚡ Fun fact **That I can actually code.**
+- ⚡ Fun fact **that I can actually code.**
   
 ###
 
