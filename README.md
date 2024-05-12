@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **parulpathak1011@gmail.com**
 
-- 💬 "Started coding in 2022, but it took until 2024 for my GitHub to get the makeover it deserved. Better late than buggy, I guess!"
+- 💬 Started coding in 2022, but it took until 2024 for my GitHub to get the makeover it deserved. Better late than buggy, I guess!
   
 ###
 
