@@ -5,15 +5,15 @@
 
 <h2></h2>
 
-- 🔭 I’m currently working on **Zwiggy - A Food Delivering App**
+- 🔭 I’m currently working on **Building Portfolio Projects**
 
 - 🌱 I’m currently learning and practicing **DSA**
 
-- 💬 Ask me about **ReactJS, TailwindCSS and Web Development**
+- ⚡ Ask me about **ReactJS, TailwindCSS and Web Development**
 
 - 📫 How to reach me **parulpathak1011@gmail.com**
 
-- ⚡ Fun fact **that I can actually code.**
+- 💬 "Started coding in 2022, but it took until 2024 for my GitHub to get the makeover it deserved. Better late than buggy, I guess!"
   
 ###
 
@@ -41,8 +41,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
