@@ -7,7 +7,7 @@
 
 <h2></h2>
 
-- 🔭 I’m currently working on **Building Portfolio Projects**
+- 🔭 I’m currently working on **Building FullStack Projects**
 
 - 🌱 Learning **Backend** and Polishing my **Web Development skills**
 
